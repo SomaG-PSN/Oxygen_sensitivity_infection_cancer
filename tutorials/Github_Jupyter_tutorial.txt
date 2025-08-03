@@ -1,0 +1,5 @@
+Day 1:
+
+Prepare file structure.
+
+Should include notebooks, scripts, tutorial and readme
